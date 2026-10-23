@@ -16,7 +16,7 @@ $$ \min_{w} \; w^\top \Sigma w \qquad \max_{w} \; \frac{w^\top (\mu - r_f \mathb
  ![Efficient frontier](images/00_0.png)
  ![Table](images/00_1.png)
 
- According to the methods used to find the Efficient Frontier, it would be beneficial to lower the percentage of EMIM and TEET and increase the percentage of CSPX in the portfolio. When re-evaluating my portfolio, these results should be evaluated accordingly. It is important to not be blindsided by just focusing on the Efficient Frontier, other measures should also be taken into account. When adding a new position to my portfolio, it is helpful to be able to visualize the (historical) return and volatility while fixing my current position, as such, the expected effect of adding the certain position can be visualized.
+ According to the *efficient frontier*, it would be beneficial to lower the percentage of EMIM and TEET and increase the percentage of CSPX in the portfolio. When re-evaluating my portfolio, these results should be evaluated accordingly. It is important to not be blindsided by just focusing on the *efficient frontier*, other measures should also be taken into account. When adding a new position to my portfolio, it is helpful to be able to visualize the (historical) return and volatility while fixing my current position, as such, the expected effect of adding the certain position can be visualized.
  
 ## Disclaimer
  
