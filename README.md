@@ -1,6 +1,6 @@
 # Exploration of Quantitative Finance
 
-Alongside my study of Econometrics and Data Science at the University of Amsterdam, I enjoy exploring quantitative finance in my spare time. By applying the mathematics, financial and statistics skills that are taught at the UvA (and beyond), I get to explore the real-world applications of what is taught. I plan to keep adding new projects to this repository, while also keeping up with the courses at the UvA. Questions or ideas are welcome, so feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/thijs-van-de-leemkolk-1abbb2398/)
+Alongside my study of Econometrics and Data Science at the University of Amsterdam, I enjoy exploring quantitative finance in my spare time. By applying the mathematics, financial and statistics skills that are taught at the UvA (and beyond), I get to explore the real-world applications of what is taught. I plan to keep adding new projects to this repository, while also keeping up with the courses at the UvA. All code is written in Python 3.13. Questions and ideas are welcome, so feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/thijs-van-de-leemkolk-1abbb2398/).
 ## Projects
  
 ### 00 - Efficient Frontier
