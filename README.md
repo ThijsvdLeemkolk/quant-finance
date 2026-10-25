@@ -18,7 +18,7 @@ $$ \min_{w} \; w^\top \Sigma w \qquad \max_{w} \; \frac{w^\top (\mu - r_f \mathb
 
 ## 01 - Impact of data start date on the Efficient Frontier
 
-The previous project made me wonder what the impact of data-selection is on the *efficient frontier*. By optimising a portfolio consisting of 8 Xtrackers world sector ETFs, a wide cross-section of the market is covered. Historical data starting at different years, from 2018 to 2024, is collected in 7 different datasets. Using the same formulas as in project-00, the *efficient frontier*, minimum variance and maximum Sharpe ratio portfolio (MVP, MSP) are found for each dataset. The weights in these portfolios are saved. By applying these different weights, the performance of each portfolio can be shown on the *efficient frontier* of other datasets, which shows the effect of including more (older) data. From left to right, each graph adds another year of data
+The previous project made me wonder what the impact of data-selection is on the *efficient frontier*. By optimising a portfolio consisting of 8 Xtrackers world sector ETFs, a wide cross-section of the market is covered. Historical data starting at different years, from 2018 to 2024, is collected in 7 different datasets. Using the same formulas as in project-00, the *efficient frontier*, minimum variance and maximum Sharpe ratio portfolio (MVP, MSP) are found for each dataset. The weights in these portfolios are saved. By applying these different weights, the performance of each portfolio can be shown on the *efficient frontier* of other datasets, which shows the effect of including more (older) data. From left to right, each graph adds another year of data.
 
 ![Historical efficient frontier](images/01_0.png)
 ![Historical MVP/MSP](images/01_1.png)
